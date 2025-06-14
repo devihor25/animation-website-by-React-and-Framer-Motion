@@ -1,5 +1,5 @@
 
-# Video Prodction Studio Website - Awwward Website
+# Video Prodction Studio Website
 
 Presenting an extraordinary video production studio website, inspired by the captivating designs from Awwwards. Powered by React and Framer Motion, enjoy an immersive experience with stunning UI, animations, and a seamless journey into the realm of visual storytelling.
 This project showcases a stunning user interface and mesmerizing animations that will captivate your audience.
@@ -24,12 +24,6 @@ Demo Link - https://furrow-awwward.vercel.app
 
 
 
-## Author
-
-- [Aditya Yaduvanshi](https://adityayads.vercel.app/)
-
-
-
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://adityayads.vercel.app)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theaditya-yaduvanshi-/)
@@ -43,7 +37,7 @@ Demo Link - https://furrow-awwward.vercel.app
 Clone the project
 
 ```bash
-  git clone https://github.com/adityayaduvanshi/awwwards-website-1.git
+  git clone https://github.com/devihor25/animation-website-by-React-and-Framer-Motion.git
 ```
 
 Go to the project directory
